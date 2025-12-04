@@ -65,18 +65,3 @@ CS-C182-HW11-Refactor/
 ## Completing/Running the Assignment
 
 Open the notebook, run cells sequentially, and complete the cells marked with `# TODO` comments!
-
-## Academic Integrity
-
-This is an individual assignment. You may:
-- Discuss concepts with classmates
-- Use the provided references and course materials
-- Ask clarifying questions on Ed
-
-You may not:
-- Share code with other students
-- Copy solutions from online sources
-
-## License
-
-This assignment is part of CS182 course materials. For educational use only.
