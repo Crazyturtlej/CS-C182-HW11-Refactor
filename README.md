@@ -57,9 +57,9 @@ This relationship is crucial for:
 
 ```
 CS-C182-HW11-Refactor/
-├── scaling_laws.ipynb           # TODO: Complete the experiments
-├── scaling_laws_solutions.ipynb # Reference solutions (instructor only)
-└── README.md                    # This file
+├── scaling_laws.ipynb           # Student Version
+├── scaling_laws_solutions.ipynb # Reference Solutions
+└── README.md                    
 ```
 
 ## Completing/Running the Assignment
