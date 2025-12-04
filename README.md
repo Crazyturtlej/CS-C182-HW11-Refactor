@@ -2,6 +2,10 @@
 
 A hands-on coding assignment exploring neural network scaling laws through empirical analysis of how learning rate should scale with batch size.
 
+To see the cleaned **student version** (no solutions) of the problem notebook, refer to ```scaling_laws.ipynb```.
+
+To check the cleaned **solutions version** of the problem notebook, refer to ```scaling_laws_solutions.ipynb```.
+
 ## Overview
 
 This assignment is part of **CS182: Deep Learning** and focuses on scaling laws—empirical relationships that predict optimal hyperparameters as training conditions change.
